@@ -2,10 +2,20 @@
 	"title": "Meine tolle Todo-App!",
 	"description": "Dies ist eine einfache Todo-App, die Inlang in einer realen Anwendung zeigt.",
 	"app": {
+<<<<<<< PATCH SET (ce5d90 inlang: update translations)
+		"today": "Heute, {date}sdfsdf sdfd dddoo2",
+		"nrOfTodos": "{count} aufgablid",
+		"markAsDone": "Als erledigt markieren",
+		"markAsIncomplete": "Als unvollständig markieren",
+		"deleteTodo": "Löschen",
+		"placeholder": "Todo hinzufügen ...d",
+		"addTodo": "Neu hinzufügen"
+=======
 		"today": "Heute, {date}",
 		"nrOfTodos": "sdf",
 		"markAsDone": "sdf",
 		"markAsIncomplete": "sdf"
+>>>>>>> BASE      (edde46 inlang: update translations)
 	},
 	"pages": {
 		"home": {
