@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2155c47c_1a841cf7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1037909
+      },
+      "writtenOn": "2024-03-29T11:37:59Z",
+      "side": 1,
+      "message": "look at this too",
+      "revId": "1075ae615d9b75257804a27b7710a1deba9bf95b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "dd41f7c7_fe8880de",
+        "filename": "resources/de.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1037909
+      },
+      "writtenOn": "2024-03-29T11:37:59Z",
+      "side": 1,
+      "message": "test comment for gerrit",
+      "revId": "1075ae615d9b75257804a27b7710a1deba9bf95b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7a48a259_ab800722",
+        "filename": "resources/de.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1037909
+      },
+      "writtenOn": "2024-03-29T11:37:59Z",
+      "side": 1,
+      "message": "test comment 2",
+      "revId": "1075ae615d9b75257804a27b7710a1deba9bf95b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
